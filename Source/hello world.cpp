@@ -6,8 +6,9 @@ int main()
 {
 
 	cout << "Hello World!" << endl;
+	cout << "Wo de xiaotuoniao!" << endl;
 
-	//system("pause");
+	system("pause");
 
 	return 0;
 
